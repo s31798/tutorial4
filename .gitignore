@@ -3,6 +3,7 @@
 ##
 ## Get latest from `dotnet new gitignore`
 Tutorial4.sln.DotSettings.user
+.DS_Store
 # dotenv files
 .env
 
